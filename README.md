@@ -20,60 +20,60 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### HTML
 
-[ ] Add a header with your name to your Portfolio homepage.
+- [ ] Add a header with your name to your Portfolio homepage.
 
-[ ] Update the title tag of both of your pages.
+- [ ] Update the title tag of both of your pages.
 
-[ ] Create your navigation bar that will link all your pages together.
+- [ ] Create your navigation bar that will link all your pages together.
 
-[ ] Give your HTML elements class names.
+- [ ] Give your HTML elements class names.
 
-[ ] Write your biography on your About Me page.
+- [ ] Write your biography on your About Me page.
 
 ### CSS
 
-[ ] Choose 2-4 colors for your theme and add them as font or background colors.
+- [ ] Choose 2-4 colors for your theme and add them as font or background colors.
 
-[ ] Add flexbox to your navigation bar.
+- [ ] Add flexbox to your navigation bar.
 
-[ ] Add at least 1 Google Font.
+- [ ] Add at least 1 Google Font.
 
 ## Day 2
 
 ### Set Up
 
-[ ] Link your homepage and About Me pages together using your nav bar.
+- [ ] Link your homepage and About Me pages together using your nav bar.
 
-[ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
+- [ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
 
-[ ] Upload at least 2 images so they are hosted in your Portfolio.
+- [ ] Upload at least 2 images so they are hosted in your Portfolio.
 
-[ ] Update the title tags of all your new HTML files.
+- [ ] Update the title tags of all your new HTML files.
 
-[ ] Make sure your CSS file is linked to all your HTML files.
+- [ ] Make sure your CSS file is linked to all your HTML files.
 
 ### HTML
 
-[ ] Add a professional-looking photo of yourself or something relevant to your homepage.
+- [ ] Add a professional-looking photo of yourself or something relevant to your homepage.
 
 In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
-    [ ] Project name
-    [ ] Link to project GitHub repo
-    [ ] Link to project live site
-    [ ] Short description of project including coding languages used
-    [ ] Hosted screenshot of project
+    - [ ] Project name
+    - [ ] Link to project GitHub repo
+    - [ ] Link to project live site
+    - [ ] Short description of project including coding languages used
+    - [ ] Hosted screenshot of project
 
 Add your contact information to your Contact page, including your:
 
-    [ ] GitHub account
-    [ ] Email address
-    [ ] LinkedIn
-    [ ] Resume
+    - [ ] GitHub account
+    - [ ] Email address
+    - [ ] LinkedIn
+    - [ ] Resume
 
 ### CSS
 
-[ ] Format the sizes of all your pictures
+- [ ] Format the sizes of all your pictures
 
 
 ### Extensions
