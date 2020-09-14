@@ -92,6 +92,6 @@ Add your contact information to your Contact page, including your:
 
 - [ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
 
-### References/Tools
+## References/Tools
 
 * [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
