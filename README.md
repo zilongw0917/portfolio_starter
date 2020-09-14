@@ -75,8 +75,12 @@ Add your contact information to your Contact page, including your:
 
 - [ ] Format the sizes of all your pictures
 
+### Wrap
 
-### Extensions
+- [ ] Push your changes back to your GitHub repo!
+
+
+## Project Extensions
 
 - [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
 
