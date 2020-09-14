@@ -8,7 +8,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Set up
 
-- [ ] Complete the Project Planning Document.
+- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/1_fKb8tA-WGM5TseeW_HNo69xMmTSsvWVoy7N0ewsQKU/edit#heading=h.xbxb68gln6b2).
 
 - [x] Go to the repository.
 
