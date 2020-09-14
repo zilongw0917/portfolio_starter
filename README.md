@@ -78,12 +78,16 @@ Add your contact information to your Contact page, including your:
 
 ### Extensions
 
-[ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
+- [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
 
-[ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
+- [ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
 
-[ ] Make sure all your external links open up into new tabs.
+- [ ] Make sure all your external links open up into new tabs.
 
-[ ] Create a link that pops open the email browser with your email address in the to: field.
+- [ ] Create a link that pops open the email browser with your email address in the to: field.
 
-[ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
+- [ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
+
+### References/Tools
+
+
