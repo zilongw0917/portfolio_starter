@@ -38,6 +38,10 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Add at least 1 Google Font.
 
+### Wrap
+
+- [ ] Submit your work to the session agenda.
+
 ## Day 2
 
 ### Set Up
