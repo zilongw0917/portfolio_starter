@@ -26,7 +26,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Create your navigation bar that will link all your pages together.
 
-- [ ] Give your HTML elements class names.
+- [ ] Give your HTML elements classes in order to add Flexbox to the CSS.
 
 - [ ] Write your biography on your About Me page.
 
@@ -50,11 +50,11 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Update the title tags of all your new HTML files.
 
-- [ ] Make sure your CSS file is linked to all your HTML files.
+- [ ] Link your CSS file to all of your HTML files.
 
 ### HTML
 
-- [ ] Add a professional-looking photo of yourself or something relevant to your homepage.
+- [ ] Add a professional headshot of yourself.
 
 In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
@@ -95,3 +95,6 @@ Add your contact information to your Contact page, including your:
 ## References/Tools
 
 * [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
+* [W3Schools] (https://www.w3schools.com/)
+* [MDN web docs] (https://developer.mozilla.org/en-US/)
+* [Introduction to Bootstrap] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
